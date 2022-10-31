@@ -1,1 +1,0 @@
-import"./Link.vue_vue_type_script_setup_true_name_BaseLink_lang.2ea6e96b.js";import{_ as t}from"./Link.vue_vue_type_script_setup_true_name_BaseLink_lang.2ea6e96b.js";import"./index.a4fd1c5c.js";export{t as default};
