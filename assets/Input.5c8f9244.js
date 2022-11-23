@@ -1,0 +1,1 @@
+import"./Input.vue_vue_type_script_setup_true_name_BaseButton_lang.835d215a.js";import{_ as t}from"./Input.vue_vue_type_script_setup_true_name_BaseButton_lang.835d215a.js";import"./index.42c7a497.js";export{t as default};
