@@ -1,1 +1,0 @@
-import"./Dialog.vue_vue_type_script_setup_true_name_BaseDialog_lang.b75f4ca1.js";import{_ as t}from"./Dialog.vue_vue_type_script_setup_true_name_BaseDialog_lang.b75f4ca1.js";import"./index.42c7a497.js";export{t as default};
